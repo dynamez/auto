@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">examplemvvm</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="color">color</string>
+    <string name="marca">marca:</string>
+    <string name="anio">Año:</string>
+</resources>
